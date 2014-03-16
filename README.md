@@ -4,7 +4,9 @@ Enderman Gaze Detector
 A small but non-trivial minecraft mod that replaces vanilla mob-heads with equivalents and adds an enderman head that emits a redstone signal when viewed from a (configurable) distance. This mod uses tile entities, client server communication, hooks into a power system and needs some custom rendering and bases itself heavily on decompiled minecraft code and its assets.
 
 <p align="center">
-[![ScreenShot](https://raw.github.com/BruceJillis/GazeDetector/master/assets/gaze-detector/screenshots/teaser.png)](http://youtu.be/s2y-adFJeKQ)
+    <a href="http://youtu.be/s2y-adFJeKQ" title="Short demo video showing off the items added.">
+        <img src="https://raw.github.com/BruceJillis/GazeDetector/master/assets/gaze-detector/screenshots/teaser.png" />
+    </a>
 </p>
 
 Instructions
